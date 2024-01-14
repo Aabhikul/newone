@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(217, 198, 172);
+}
+image{
+    width: 250;
+    height: auto;
+
+    box-shadow: inset;
+
+    background-color: rgb(64, 157, 238);
+}
